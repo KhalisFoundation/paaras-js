@@ -4,9 +4,9 @@
       <img alt="BaniDB logo" src="../assets/logo.png">
     </a>
 
-    <h1> Welcome to anvaad-js (ਅਨੁਵਾਦ-ਜੇਅੈਸ) </h1>
+    <h1> Welcome to anvaad-js (ਅਨੁਵਾਦ-ਜੇਐਸ) </h1>
 
-    <p>A JavaScript utility to translit gurmukhi, and convert it between ascii to unicode with ease!</p>
+    <p>A JavaScript utility to transliterate gurmukhi, and convert it between ascii and unicode with ease!</p>
   </div>
 </template>
 

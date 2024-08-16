@@ -15,7 +15,7 @@
     "pre-push"
   ],
   "dependencies": {
-    "anvaad-js": "^1.4.1",
+    "anvaad-js": "^1.5.0",
     "vue": "^2.5.16"
   },
   "devDependencies": {

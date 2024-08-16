@@ -14,7 +14,8 @@
     <Usage name="translit.ipa" description="Returns an ipa(International Phonetic Alphabet) transliteration of Gurmukhi script" />
     <Usage name="translit.devnagri" description="Returns an devnagri transliteration of Gurmukhi script" />
     <Usage name="translit.shahmukhi" description="Returns an shahmukhi transliteration of Gurmukhi script" />
-    <Usage name="unicode" description="Convert Gurmukhi script to Unicode" />
+    <Usage name="unicode" description="Convert Gurmukhi script from ASCII to Unicode" />
+    <Usage name="unicode.reverse" description="Convert Gurmukhi script from Unicode to ASCII" />
   </div>
 </template>
 
